@@ -1,12 +1,12 @@
-## _Spring Board_ 
+##**Spring Board**
 
-#__Careers In Data Science__
+#*Careers In Data Science*
 
-Exercises
+Exercises:
+* Json
+* XML
+* SQL
 
-*Json
+CapStone 1
 
-*XML
-
-*SQL
-
+CapStone 2
