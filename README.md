@@ -5,7 +5,10 @@
 ### Exercises:
 * Json
 * XML
-* SQL
+* Inferential Statistics
+  * exercise 1
+  * exercise 2
+  * exercise 3
 
 ### CapStone 1
 
