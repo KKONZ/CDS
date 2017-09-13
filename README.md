@@ -1,6 +1,6 @@
-##**Spring Board**
+## **Spring Board**
 
-#*Careers In Data Science*
+# *Careers In Data Science*
 
 Exercises:
 * Json
