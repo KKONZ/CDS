@@ -5,19 +5,17 @@
 ### Exercises:
 * Json
 * XML
+* Time Series
+* Clustering 
+* Linear Regression
+* Logistic Regression
+* Naive Bayes
 * Inferential Statistics
-  * exercise 1
-  * exercise 2
-  * exercise 3
+* Recommender Systems
+* Spark
 
 ### CapStone 1
-
-* KunstDerFuge Selenium.ipynb
-* KunstDerFuge Data Wrangling.ipynb
+* Deep Quartet
 
 ### CapStone 2
-* Drill.ipynb
-
-### References
-* DeepBach
-* Word2vec
+* Pizza2Vec
