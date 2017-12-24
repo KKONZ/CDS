@@ -1,6 +1,7 @@
 # **Spring Board**
 
 ## *Careers In Data Science*
+$__June 26th Cohort__$
 
 ### Exercises:
 * Json
