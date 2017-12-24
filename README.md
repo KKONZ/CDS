@@ -3,6 +3,15 @@
 ## *Careers In Data Science*
 *__June 26th Cohort__*
 
+### CapStone 1
+* Deep Quartet
+
+See Blog post [Here](KKONZ.github.io)
+
+### CapStone 2
+* Pizza2Vec
+
+
 ### Exercises:
 * Json
 * XML
@@ -15,8 +24,4 @@
 * Recommender Systems
 * Spark
 
-### CapStone 1
-* Deep Quartet
 
-### CapStone 2
-* Pizza2Vec
