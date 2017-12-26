@@ -6,7 +6,7 @@
 ### CapStone 1
 * Deep Quartet
 
-See my blog post [here](https://kkonz.github.io/2017-12-02-deep-quartet/), where I demonstrate how I obtain midi files for training a stacked LSTM deep neural network with reharmonizing and resampling with psuedo-Gibbs sampling. I added additional string quartets as well as sampled from Kashmir and Going to California from Led Zeppelin.
+See my blog post [here](https://kkonz.github.io/2017-12-02-deep-quartet/), where I demonstrate how I obtain midi files for training a stacked LSTM deep neural network with reharmonizing and resampling with psuedo-Gibbs sampling. I added additional string quartets as well as sampled from Kashmir and Going to California from Led Zeppelin. The code is found in [here in my version of the DeepBach repository](https://github.com/KKONZ/DeepBach) and the original code from Sony/Gaetan Hadjeres is [here](https://github.com/Ghadjeres/DeepBach)
 
 ### CapStone 2
 * Pizza2Vec
